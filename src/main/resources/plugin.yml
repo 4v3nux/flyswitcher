@@ -1,0 +1,11 @@
+name: flyswitcher
+version: '2.0'
+main: ru.avenux.flyswitcher.flyswitcher
+api-version: '1.21'
+commands:
+  flyon:
+    description: Fly enable
+  flyoff:
+    description: Fly disable
+  survivalmode:
+    description: Switches from creative mode and others to survival
